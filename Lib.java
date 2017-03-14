@@ -1,6 +1,6 @@
 /**
  *
- * @author ???
+ * Juan Manuel Burgos Romero
  */
 
 public class Lib {
